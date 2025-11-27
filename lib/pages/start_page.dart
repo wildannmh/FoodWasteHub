@@ -58,7 +58,7 @@ class StartPage extends StatelessWidget {
                 children: [
                   const Spacer(),
                   const Text(
-                    'FoodWaste Hub',
+                    'Food Waste Hub',
                     style: TextStyle(
                       fontSize: 32,
                       fontWeight: FontWeight.bold,
@@ -67,9 +67,9 @@ class StartPage extends StatelessWidget {
                   ),
                   const SizedBox(height: 30),
                   Image.asset(
-                    'assets/images/img3.png',
-                    width: 200,
-                    height: 200,
+                    'assets/images/logo.jpeg',
+                    width: 600,
+                    height: 600,
                   ),
                   const SizedBox(height: 30),
                   const Text(
